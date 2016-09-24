@@ -7,7 +7,7 @@
 	<authorEmail>kiko@kikojover.es</authorEmail>
 	<authorUrl>www.kikojover.es</authorUrl>
 	<version>1.0</version>
-	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+        <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
 	<description></description>
 	<files>
 		<filename plugin="k2_notify">k2_notify.php</filename>
